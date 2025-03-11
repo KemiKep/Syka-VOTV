@@ -1,4 +1,4 @@
-# Syka - VOTV
+# Syka-VOTV
 
 ![Screen](https://github.com/user-attachments/assets/0a63fe75-df48-4c79-ad0d-4a747c49472d)
 
